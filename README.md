@@ -2,6 +2,9 @@
 
 Welcome to the AI Lab Course (CS 351L)! In this repository, you will explore various concepts in Artificial Intelligence (AI) through hands-on exercises and projects using Python. The course focuses on practical implementations of AI techniques, algorithms, and tools commonly used in the field of AI and cybersecurity.
 
+![image](https://github.com/user-attachments/assets/a7a07f0a-2ca6-462c-b651-14db2aee39c8)
+
+
 **📚 Course Overview**
 
 Course Code: CS 351L
@@ -13,7 +16,7 @@ Semester: 5th
 
 **📋 Course Outline**
 
-1- Throughout the course, we will cover the following topics:
+Throughout the course, we will cover the following topics:
 
 2- Introduction to Python: Variables, Data Types, and Control Structures
 
@@ -35,11 +38,11 @@ Semester: 5th
 
 We encourage contributions to improve the course material. To contribute:
 
-Fork the repository.
+. Fork the repository.
 
-Create a new branch.
+. Create a new branch.
 
-Make your changes and submit a pull request.
+. Make your changes and submit a pull request.
 
 **📧 Contact**
 
