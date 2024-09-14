@@ -7,12 +7,10 @@
 
 ### Artificial Intelligence (Lab)
 
-### Lab 02: Introduction to search in AI: Problem spaces, states, and goals
+### Lab 01: Introduction to Python and AI Development Environment
 
 ### Syed Muhammad Naqi Raza
-
 ### 2022574
-
 ### Cyber Security
 
 </div>
