@@ -1,7 +1,8 @@
+<div align="center">
 ![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
 
 
-<div align="center">
+
 
 ### Artificial Intelligence (Lab)
 
@@ -15,13 +16,16 @@
 
 </div>
 
-This directory contains implementations of "A Way Home Game" using A* Algorithm.
 
 ### A* Algorithm
 
 The A* algorithm, pronounced "A-star," is a widely used graph traversal and pathfinding algorithm that efficiently finds the shortest path between a starting node and a goal node in a weighted graph. It is particularly notable for its completeness, optimality, and efficiency, making it applicable in various fields, including computer science, robotics, and video game development.
 
+<div align="center">
+
 ![image](https://github.com/user-attachments/assets/2d13b0d9-18e5-446d-bf11-05f8d3eb6501)
+
+</div>
 
 
 ### Key Components
