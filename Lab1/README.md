@@ -5,7 +5,7 @@
 
 
 
-### Artificial Intelligence (Lab)
+### **Artificial Intelligence (Lab)**
 
 ### Lab 01: Introduction to Python and AI Development Environment
 
