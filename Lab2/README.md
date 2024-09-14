@@ -1,12 +1,12 @@
-                   ![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
+![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
 
-                                  `Artificial Intelligence (Lab)`
+`Artificial Intelligence (Lab)`
 
-                `Lab 02: Introduction to search in AI: Problem spaces, states, and goals`
+`Lab 02: Introduction to search in AI: Problem spaces, states, and goals`
 
-                                   `Syed Muhammad Naqi Raza
-                                            2022574
-                                         Cyber Security`
+`Syed Muhammad Naqi Raza
+2022574
+Cyber Security`
 
 This directory contains implementations of "A Way Home Game" using A* Algorithm.
 
