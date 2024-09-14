@@ -1,18 +1,18 @@
 ![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
 
-`Artificial Intelligence (Lab)`
+### Artificial Intelligence (Lab)
 
-`Lab 02: Introduction to search in AI: Problem spaces, states, and goals`
+### Lab 02: Introduction to search in AI: Problem spaces, states, and goals
 
-`Syed Muhammad Naqi Raza
+### Syed Muhammad Naqi Raza
 
-2022574
+### 2022574
 
-Cyber Security`
+### Cyber Security
 
 This directory contains implementations of "A Way Home Game" using A* Algorithm.
 
-**A* Algorithm**
+### A* Algorithm
 
 The A* algorithm, pronounced "A-star," is a widely used graph traversal and pathfinding algorithm that efficiently finds the shortest path between a starting node and a goal node in a weighted graph. It is particularly notable for its completeness, optimality, and efficiency, making it applicable in various fields, including computer science, robotics, and video game development.
 
@@ -54,11 +54,17 @@ A* is commonly used in various applications, such as:
 The A* algorithm is a powerful tool for pathfinding and graph traversal, leveraging heuristics to optimize the search process and ensure efficient pathfinding in complex environments[1][2][4][6].
 
 Citations:
+
 [1] https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/a-star-algorithm
+
 [2] https://www.educative.io/answers/what-is-the-a-star-algorithm
+
 [3] https://www.scribbr.com/ai-tools/what-is-an-algorithm/
+
 [4] https://en.wikipedia.org/wiki/A-star
+
 [5] https://www.simplilearn.com/tutorials/data-structure-tutorial/what-is-an-algorithm
+
 [6] https://www.geeksforgeeks.org/a-search-algorithm/
 [7] https://www.techtarget.com/whatis/definition/algorithm
 [8] https://www.merriam-webster.com/dictionary/algorithm
