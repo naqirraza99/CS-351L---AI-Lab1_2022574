@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/06ee8a78-9691-4486-8e28-82d311679e1a)
+
+
 # Neighboring Countries Graph Coloring Problem
 
 **Overview:**
@@ -30,6 +33,7 @@ The graph coloring algorithm is implemented using backtracking with the Minimum 
 To run this project, you will need to have Python installed along with the required libraries. You can install the dependencies using pip.
 
  **Install necessary libraries**
+ 
 pip install networkx matplotlib
 
 # How to Run
