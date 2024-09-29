@@ -4,11 +4,11 @@
 
 This project demonstrates two supervised machine learning models—k-Nearest Neighbors (k-NN) and Decision Tree Classifier—using the Titanic dataset to predict the survival of passengers based on various features such as age, gender, ticket class, and fare. The project explores the following tasks:
 
-- Data exploration and preprocessing.
+  - Data exploration and preprocessing.
   
-- Model training and evaluation using k-NN and Decision Trees.
+  - Model training and evaluation using k-NN and Decision Trees.
   
-- Visualization of decision boundaries and classification results.
+  - Visualization of decision boundaries and classification results.
 
 # Project Structure
 
@@ -16,31 +16,31 @@ This project consists of the following key components:
 
 1. **Data Exploration and Preprocessing:**
 
-- Handling missing data, encoding categorical features, and scaling numerical data.
+  - Handling missing data, encoding categorical features, and scaling numerical data.
   
-- Splitting the dataset into training and testing sets.
+  - Splitting the dataset into training and testing sets.
 
 2. **k-Nearest Neighbors (k-NN):**
 
-- A simple but effective algorithm that classifies samples based on the majority class among the nearest neighbors.
+  - A simple but effective algorithm that classifies samples based on the majority class among the nearest      neighbors.
   
-- k = 3 is used as the number of neighbors in this implementation.
+  - k = 3 is used as the number of neighbors in this implementation.
   
-- Accuracy and performance metrics are calculated based on the test dataset.
+  - Accuracy and performance metrics are calculated based on the test dataset.
 
 3. **Decision Tree Classifier:**
 
-- A decision tree is built to classify passengers based on features such as class, age, and fare.
+  - A decision tree is built to classify passengers based on features such as class, age, and fare.
   
-- Gini Index is used as the criterion, with a maximum depth of 3.
+  - Gini Index is used as the criterion, with a maximum depth of 3.
   
-- The decision tree is visualized to show decision paths for the survival classification.
+  - The decision tree is visualized to show decision paths for the survival classification.
 
 4. **Performance Evaluation:**
 
-- Both models are evaluated using accuracy, precision, recall, and F1-score.
+  - Both models are evaluated using accuracy, precision, recall, and F1-score.
   
-- Graphical visualization is used to demonstrate classification results and decision boundaries.
+  - Graphical visualization is used to demonstrate classification results and decision boundaries.
 
 # Dataset
 
@@ -63,11 +63,30 @@ https://www.kaggle.com/c/titanic/data
    
 2. Upload the Titanic dataset (train.csv) into your working directory.
 3. Run the Python script for k-NN and Decision Tree models:
-- knn_titanic.py (k-Nearest Neighbors)
-- decision_tree_titanic.py (Decision Tree)
+  - knn_titanic.py (k-Nearest Neighbors)
+  - decision_tree_titanic.py (Decision Tree)
   
 4. The scripts will output:
    
-- Classification accuracy.
-- Precision, recall, and F1-score.
-- Graphical visualizations of the classification results and decision trees.
+  - Classification accuracy.
+  - Precision, recall, and F1-score.
+  - Graphical visualizations of the classification results and decision trees.
+
+# Installation Requirements
+
+  - Python 3.x
+  - Libraries:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  
+You can install the necessary libraries using pip:
+
+
+**pip install numpy pandas scikit-learn matplotlib seaborn**
+
+# License
+
+This project is licensed under the MIT License.
