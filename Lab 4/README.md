@@ -1,14 +1,20 @@
-![image](https://github.com/user-attachments/assets/f870f888-1c32-455c-9a5a-fc52e647abee)
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
 
-**Artificial Intelligence (Lab)**
 
-**Lab 01: Introduction to Python and AI Development Environment**
 
-**Syed Muhammad Naqi Raza**
 
-**2022574**
+### **Artificial Intelligence (Lab)**
 
-**Cyber Security**
+### Lab 04: Supervised Learning - Classification with k-NN and Decision Trees
+
+### Syed Muhammad Naqi Raza
+### 2022574
+### Cyber Security
+
+</div>
+
 
 ![image](https://github.com/user-attachments/assets/b4b660c3-e4bc-4159-afa6-36c369ad00b3)
 
