@@ -1,5 +1,15 @@
 ![image](https://github.com/user-attachments/assets/f870f888-1c32-455c-9a5a-fc52e647abee)
 
+**Artificial Intelligence (Lab)**
+
+**Lab 01: Introduction to Python and AI Development Environment**
+
+**Syed Muhammad Naqi Raza**
+
+**2022574**
+
+**Cyber Security**
+
 ![image](https://github.com/user-attachments/assets/b4b660c3-e4bc-4159-afa6-36c369ad00b3)
 
 ![image](https://github.com/user-attachments/assets/9e181aa3-29bd-44fa-be65-5f8fdbfa708f)
