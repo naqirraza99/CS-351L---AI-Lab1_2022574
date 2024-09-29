@@ -34,7 +34,7 @@ To run this project, you will need to have Python installed along with the requi
 
  **Install necessary libraries**
  
-pip install networkx matplotlib
+- pip install networkx matplotlib
 
 # How to Run
 
