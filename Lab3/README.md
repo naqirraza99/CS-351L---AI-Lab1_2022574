@@ -1,3 +1,20 @@
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/eb3535c2-35e2-40de-af0c-3dc39996e10b)
+
+
+
+
+### **Artificial Intelligence (Lab)**
+
+### Lab 03: Introduction to Constraint Satisfaction Problems (CSP)
+
+### Syed Muhammad Naqi Raza
+### 2022574
+### Cyber Security
+
+</div>
+
 ![image](https://github.com/user-attachments/assets/06ee8a78-9691-4486-8e28-82d311679e1a)
 
 
