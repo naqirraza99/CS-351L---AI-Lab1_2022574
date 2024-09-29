@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/b4b660c3-e4bc-4159-afa6-36c369ad00b3)
+
+![image](https://github.com/user-attachments/assets/9e181aa3-29bd-44fa-be65-5f8fdbfa708f)
+
+
 # Titanic Dataset Classification with k-NN and Decision Tree
 
 **Overview**
