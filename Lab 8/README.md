@@ -1,4 +1,6 @@
 # Neural Network Classification on Iris and Wine Datasets
+![image](https://github.com/user-attachments/assets/55b8e397-9697-4e96-89e1-fa7309922f63)
+
 ---
 
 ## Table of Contents
@@ -100,8 +102,8 @@ This project implements **neural networks** for multi-class classification using
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/neural-network-classification.git
-cd neural-network-classification
+git clone https://github.com/naqirraza99/CS-351L---AI-Lab1_2022574.git
+cd CS-351L---AI-Lab1_2022574
 ```
 
 ### Install Dependencies
