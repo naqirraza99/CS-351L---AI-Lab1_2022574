@@ -1,8 +1,4 @@
-Here's a **GitHub-compatible README.md** file format for your project:
-
-```markdown
 # Neural Network Classification on Iris and Wine Datasets
-
 ---
 
 ## Table of Contents
