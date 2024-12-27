@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="![Uploading image.png…]()
-" alt="CS 351L - AI Lab" />
-</p>
-
+![Uploading image.png…]()
 
 
 # CS 351L - AI Lab
