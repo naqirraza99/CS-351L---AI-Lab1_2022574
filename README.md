@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a1af70e0-bc84-45c8-99be-0ca717981f92)
+
 
 
 # CS 351L - AI Lab
